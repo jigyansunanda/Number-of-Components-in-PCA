@@ -15,3 +15,4 @@ Say, we have a d-dimensional (large value of d) dataset. Running an ML algorithm
 ## Deciding optimal value of K
 We will use a measure called **Explained Variance**. The Explained Variance tells us how much information (variance) can be attributed to each of the principal components. Looking at cumulative values of Explained varinace associated with each component, we can decide which features, we can drop out safely.
 
+![Individual Explained Variance in PCA](https://github.com/Jigyansu-Nanda/Number-of-Components-in-PCA/blob/master/pca1.png)
