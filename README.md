@@ -1,1 +1,2 @@
-# Number-of-Components-in-PCA-Principal-Component-Analysis-
+# Optimal Number of Components in PCA (Principal Component Analysis)
+
